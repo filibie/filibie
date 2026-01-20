@@ -22,10 +22,6 @@ My name is Filip, I am a software developer based in Kraków area, with 2+ years
 
 - [`github-service`](https://github.com/philbjern/githubservice) Spring Boot application for retreiving GitHub user's repository data using GitHub API
 
-- [`taco-cloud`](https://github.com/philbjern/tacocloud) Java Spring application
-
-- [`tts-client`](https://github.com/philbjern/ttss-client) command line interface for Kraków public transport information API written in Python
-
 - [`adventofcode-python`](https://www.github.com/philbjern/adventofcode-python/) my solutions to adventofcode challenges in Python
 
 - [`exercism`](https://github.com/philbjern/exercism) exercism programming challenges solutions in Python and Java
@@ -38,7 +34,7 @@ My name is Filip, I am a software developer based in Kraków area, with 2+ years
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=philbjern&theme=radical)](https://git.io/streak-stats) -->
 
 
-## 🔭 Certificates
+<!-- ## 🔭 Certificates
 
 **(New) JavaScript Algorithms and Data Structures** / *freecodecamp.org*\
 April 9, 2025, (*JavaScript, Data Structures, Algorithms*)\
@@ -70,11 +66,9 @@ December 5, 2023 (claimed, completed earlier), approximately 300 hours of work\
 
 **Front End Development Libraries** / *freecodecamp.org*\
 December 5, 2023 (claimed, completed earlier), approximately 300 hours of work\
-[freecodecamp.org/certification/fil-bie/front-end-development-libraries](https://www.freecodecamp.org/certification/fil-bie/front-end-development-libraries)
+[freecodecamp.org/certification/fil-bie/front-end-development-libraries](https://www.freecodecamp.org/certification/fil-bie/front-end-development-libraries) -->
 
 ## 💼 Contact Me
-- [Email](mailto:archloner@pm.me)
-- [LinkedIn](https://www.linkedin.com/in/phil-bjern-xff)
-- [Portfolio page](https://philbjern.github.io/portfolio) 
+- [Email](mailto:archloner@proton.me)
 
 Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project.
