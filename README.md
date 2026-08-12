@@ -18,7 +18,7 @@ My name is Filip, I am a software developer based in Kraków area, with 2+ years
 
 - [`react-shopping-cart`](https://shoppingcartfb.netlify.app/shop) React online store application
 
-- [`todo-list`](https://philbjern.github.io/todo-list/) fullstack task management demo app, backend written in Java with Spring and MongoDB, front was created using Svelte
+<!-- - [`todo-list`](https://philbjern.github.io/todo-list/) fullstack task management demo app, backend written in Java with Spring and MongoDB, front was created using Svelte -->
 
 - [`github-service`](https://github.com/philbjern/githubservice) Spring Boot application for retreiving GitHub user's repository data using GitHub API
 
@@ -26,11 +26,11 @@ My name is Filip, I am a software developer based in Kraków area, with 2+ years
 
 - [`exercism`](https://github.com/philbjern/exercism) exercism programming challenges solutions in Python and Java
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 [![philbjern's GitHub stats](https://github-readme-stats.vercel.app/api?username=philbjern&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philbjern&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=philbjern&theme=radical)](https://git.io/streak-stats) -->
 
 
