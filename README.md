@@ -1,6 +1,6 @@
 # Cześć 👋
 
-My name is Filip, I am a software developer based in Kraków area, with 2+ years of commercial backend Java experience. Here's my current [portfolio page](https://philbjern.github.io/portfolio) showcasing few of my projects.
+My name is Filip, I am a software developer based in Kraków area, with 2+ years of commercial backend Java experience. Here's my current [portfolio page](https://filibie.github.io/portfolio) showcasing few of my projects.
 
 ## 🖼️ Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
