@@ -12,19 +12,20 @@ My name is Filip, I am a software developer based in Kraków area, with 2+ years
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-blue?style=flat&logo=react&logoColor=white)
 
-## 🚀 Projects
+
+<!-- ## 🚀 Projects
 
 - [`homeiotserver`](https://github.com/philbjern/homeiotserver) A self-hosted Spring Boot application for collecting and visualizing sensor data from ESP8266/ESP32 devices.
 
 - [`react-shopping-cart`](https://shoppingcartfb.netlify.app/shop) React online store application
 
-<!-- - [`todo-list`](https://philbjern.github.io/todo-list/) fullstack task management demo app, backend written in Java with Spring and MongoDB, front was created using Svelte -->
 
 - [`github-service`](https://github.com/philbjern/githubservice) Spring Boot application for retreiving GitHub user's repository data using GitHub API
 
 - [`adventofcode-python`](https://www.github.com/philbjern/adventofcode-python/) my solutions to adventofcode challenges in Python
 
 - [`exercism`](https://github.com/philbjern/exercism) exercism programming challenges solutions in Python and Java
+-->
 
 <!-- ## 📈 GitHub Stats
 [![philbjern's GitHub stats](https://github-readme-stats.vercel.app/api?username=philbjern&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -34,7 +35,7 @@ My name is Filip, I am a software developer based in Kraków area, with 2+ years
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=philbjern&theme=radical)](https://git.io/streak-stats) -->
 
 
-<!-- ## 🔭 Certificates
+## 🔭 Certificates
 
 **(New) JavaScript Algorithms and Data Structures** / *freecodecamp.org*\
 April 9, 2025, (*JavaScript, Data Structures, Algorithms*)\
@@ -66,9 +67,9 @@ December 5, 2023 (claimed, completed earlier), approximately 300 hours of work\
 
 **Front End Development Libraries** / *freecodecamp.org*\
 December 5, 2023 (claimed, completed earlier), approximately 300 hours of work\
-[freecodecamp.org/certification/fil-bie/front-end-development-libraries](https://www.freecodecamp.org/certification/fil-bie/front-end-development-libraries) -->
+[freecodecamp.org/certification/fil-bie/front-end-development-libraries](https://www.freecodecamp.org/certification/fil-bie/front-end-development-libraries)
 
 ## 💼 Contact Me
-- [Email](mailto:archloner@proton.me)
+- [Email](mailto:filipbiernat@gmail.com)
 
 Thank you for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project.
